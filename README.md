@@ -1,4 +1,4 @@
-# Mailer
+# MazeMailer
 
 A Typescript program to send email
 
